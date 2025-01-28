@@ -66,7 +66,7 @@ However, these were not used in the final implementation due to limitations in a
 ## Dependencies
 All required dependencies are listed in the environment.yaml file. To set up the environment:
 ```bash
-conda env create -f environment.yaml
+conda env create -f _ECMX_.yaml
 ```
 
 ## Key Libraries
